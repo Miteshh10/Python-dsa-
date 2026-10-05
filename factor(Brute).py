@@ -8,4 +8,5 @@ def factors(n):
 
 num = int(input("Enter a number: "))
 
+
 factors(num)
