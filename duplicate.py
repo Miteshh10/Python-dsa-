@@ -8,6 +8,6 @@ def find_duplicates(numbers):
     return duplicates
 
 
-numbers = [1, 2, 3, 2, 4, 5, 1, 6]
+numbers = [1, 2, 3, 2, 4, 5, 1, 6,6]
 
 print("Duplicate elements:", find_duplicates(numbers))
