@@ -10,7 +10,7 @@ def count_frequency(numbers):
     return frequency
 
 
-numbers = [1, 2, 2, 3, 1, 2, 4, 3]
+numbers = [1, 2, 2, 3, 1, 2, 4, 3,4]
 
 result = count_frequency(numbers)
 
