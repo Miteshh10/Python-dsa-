@@ -7,6 +7,6 @@ def calculate_sum(numbers):
     return total
 
 
-numbers = [10, 20, 30, 40, 50]
+numbers = [10, 20, 20, 40, 50]
 
 print("Sum =", calculate_sum(numbers))
