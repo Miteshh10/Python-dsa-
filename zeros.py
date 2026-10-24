@@ -13,6 +13,6 @@ def move_zeros(numbers):
     return result
 
 
-numbers = [0, 1, 0, 3, 12]
+numbers = [0, 1,2, 0, 3, 12]
 
 print(move_zeros(numbers))
