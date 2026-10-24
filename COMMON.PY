@@ -8,7 +8,7 @@ def common_elements(list1, list2):
     return result
 
 
-list1 = [1, 2, 6, 4, 5]
+list1 = [1, 2, 6, 5, 5]
 list2 = [3, 4, 5, 6, 7]
 
 print(common_elements(list1, list2))
