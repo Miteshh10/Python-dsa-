@@ -16,6 +16,6 @@ def count_numbers(numbers):
     print("Zero:", zero)
 
 
-numbers = [10, -5, 0, 8, -2, 0, 4]
+numbers = [10, -5, 0,1 , 8, -2, 0, 4]
 
 count_numbers(numbers)
